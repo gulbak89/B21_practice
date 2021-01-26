@@ -1,6 +1,5 @@
-public class FeatureA {
+public class FeatureB {
     public static void main(String[] args) {
-
 
 
     }
