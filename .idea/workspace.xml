@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e82b62a4-2579-411d-b6cb-82d121115bd9" name="Default" comment="another 10min before going back to licing room">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeeingDefference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e82b62a4-2579-411d-b6cb-82d121115bd9" name="Default" comment="movie5 added">
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeeingDefference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeeingDefference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="movie5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -295,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611693636600</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="movie5 added">
+      <created>1611696358569</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611696358569</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -355,7 +361,8 @@
     <MESSAGE value="movie2 on the phone 20min" />
     <MESSAGE value="master branch watching on the living room 10min" />
     <MESSAGE value="another 10min before going back to licing room" />
-    <option name="LAST_COMMIT_MESSAGE" value="another 10min before going back to licing room" />
+    <MESSAGE value="movie5 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="movie5 added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/FeatureC.java">
