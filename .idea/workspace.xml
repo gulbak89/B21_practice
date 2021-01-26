@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e82b62a4-2579-411d-b6cb-82d121115bd9" name="Default" comment="movie5 added">
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeeingDefference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeeingDefference.java" afterDir="false" />
-    </list>
+    <list default="true" id="e82b62a4-2579-411d-b6cb-82d121115bd9" name="Default" comment="master added difference to movie5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -301,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611696358569</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="master added difference to movie5">
+      <created>1611696448960</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611696448960</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -362,7 +368,8 @@
     <MESSAGE value="master branch watching on the living room 10min" />
     <MESSAGE value="another 10min before going back to licing room" />
     <MESSAGE value="movie5 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="movie5 added" />
+    <MESSAGE value="master added difference to movie5" />
+    <option name="LAST_COMMIT_MESSAGE" value="master added difference to movie5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/FeatureC.java">
